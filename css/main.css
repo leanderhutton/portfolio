@@ -1,0 +1,19 @@
+@import url("pygment.css");
+body { margin:0px; padding:20px 0px; text-align:center; font-family:Sans-Serif; }
+h1 { padding:0px 0px 15px; margin:0px 0px 5px 0px; }
+blockquote { font-style:italic; background:#EAEAEA; margin:20px; padding:5px 10px; }
+blockquote cite { display:block; padding:10px 20px 0 0; text-align:right; }
+input, textarea { padding:5px; border:1px solid #8A8A8A; background:#EAEAEA; }
+input:hover, textarea:hover, blockquote:hover { background:#E5E5E5; }
+
+#header div { margin:30px 0px 0px 0px; padding:30px 0px 0px 200px; border-top:1px dotted #C8C8C8; }
+#header p { color:#505050; display:inline; margin-left:1em;}
+#header h1 { display:inline; }
+#header a { float:right; margin-left:1em; font-weight:bold; font-size:1.1em;}
+
+#wrap { margin:0em 2em 0em 2em; text-align:left; font-size: 16px; line-height: 1.4; padding:0em 1em 0em 1em; }
+#container { float:right; }
+#footer { text-align:center; clear:both; font-size: 1.0em; }
+#footer div { margin:30px 0px 0px 0px; padding:30px 0px 0px 0px; border-top:1px dotted #C8C8C8; }
+#footer li { list-style-type:none; }
+#footer .widget_tag_cloud h2 { display:none; }
