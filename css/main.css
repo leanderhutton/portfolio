@@ -1,5 +1,5 @@
 @import url("pygment.css");
-body { margin:0px; padding:20px 0px; text-align:center; font-family:Sans-Serif; }
+body { margin:0px; padding:20px 0px; text-align:center; font-family: Serif; }
 h1 { padding:0px 0px 15px; margin:0px 0px 5px 0px; }
 blockquote { font-style:italic; background:#EAEAEA; margin:20px; padding:5px 10px; }
 blockquote cite { display:block; padding:10px 20px 0 0; text-align:right; }
